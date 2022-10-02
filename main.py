@@ -5,7 +5,6 @@ print(f"20 days are {50} minutes")
 
 # variables are containers for strong values. here's how to make a variable
 
-
 # turn this into...
 print(f"20 days are {50 * 24 * 60 * 60} seconds")
 
@@ -15,8 +14,6 @@ print(f"20 days are {50 * toSeconds} seconds")
 
 nameOfUnit = "seconds"
 print(f"20 days are {50 * toSeconds} {nameOfUnit}")
-
-
 
 
 
